@@ -7,7 +7,7 @@ export default function Intro() {
         Sam Toohey
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Headless, Developer{" "}
+        Headless , Developer{" "}
         <a
           href={CMS_URL}
           className="underline hover:text-success duration-200 transition-colors"
