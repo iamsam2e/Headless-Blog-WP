@@ -15,7 +15,8 @@ export default function Index({ allPosts: { edges }, preview }) {
   return (
     <Layout preview={preview}>
       <Head>
-        <title>{`Next.js Blog Example with ${CMS_NAME}`}</title>
+        <title>{`Sam's Blog built with NextJS & 
+         ${CMS_NAME}`}</title>
       </Head>
       <Container>
         <Intro />
