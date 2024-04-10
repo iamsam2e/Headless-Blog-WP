@@ -14,9 +14,8 @@ export default function Intro() {
         </div>
       </div>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Sam Toohey is a Headless Consultant, Web Developer & {""} WorPress
+        Sam Toohey is a Headless Consultant, Web Developer & {""} WordPress
         Evangelist.
-        {""}
         {""} I drink copius amounts of coffee and is a Linux Fanboy
       </h4>
     </section>
