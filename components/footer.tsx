@@ -31,7 +31,7 @@ export default function Footer() {
 
             {/* Siteground Affiliate Link */}
             <Link
-              href="https://your-siteground-affiliate-link.com"
+              href="https://www.siteground.com/index.htm?afcode=45853ed206e763d4e00e3f71418a1591"
               className="relative"
             >
               <Image
