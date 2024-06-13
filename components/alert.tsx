@@ -10,6 +10,7 @@ import linkedinIcon from "../public/linkedin.png";
 import threadsIcon from "../public/Threads.png";
 import instagramIcon from "../public/insta.png";
 import githubIcon from "../public/github.png";
+import kofiIcon from "../public/kofi_button_blue.png";
 
 export default function Alert({ preview }) {
   return (
@@ -116,6 +117,20 @@ export default function Alert({ preview }) {
                   alt="Instagram"
                   width={40}
                   height={40}
+                  className="hover:opacity-75"
+                />
+              </a>
+              <a
+                href="https://ko-fi.com/iamsam2e"
+                className="mx-1"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Image
+                  src={kofiIcon}
+                  alt="Ko-Fi"
+                  width={180}
+                  height={100}
                   className="hover:opacity-75"
                 />
               </a>
