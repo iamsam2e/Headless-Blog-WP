@@ -17,8 +17,9 @@ export default function Intro() {
         I have worked with WordPress for over 8 years, I'm a Theme Developer and
         Headless Consultant, I muck around with NodeJS. React Native & {""}{" "}
         anything else that catches my eye.
-        {""} I drink copius amounts of coffee and I'm a Linux Fanboy current
-        running a mix of PopOS and Kubuntu
+        {""} I drink copius amounts of coffee and I'm a technology enthusiast
+        using a mix of MacOS on a fully loaded M2 Air, as well as PopOS and
+        Kubuntu on other machines
       </h4>
     </section>
   );
