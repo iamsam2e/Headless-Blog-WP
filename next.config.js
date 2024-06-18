@@ -16,6 +16,8 @@ module.exports = {
       "samtooheyblog.wpenginepowered.com",
       "secure.gravatar.com",
       "2.gravatar.com",
+      "0.gravatar.com",
+      "samtoohey.xyz",
     ],
     remotePatterns: [
       {
